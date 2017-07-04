@@ -1,10 +1,17 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://hoolisocial.herokuapp.com/parse",
+    "appId": "hooliportal",
+    "masterKey": "hoolimorty",
+    "appName": "Hooli",
     "iconName": ""
   }],
+  
+    "users": [
+    {
+      "user":"hooli", 
+      "pass":"wideLand2017"
+    }
+  ],
   "iconsFolder": "icons"
 }
