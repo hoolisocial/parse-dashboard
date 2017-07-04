@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://hoolisocial.herokuapp.com/parse",
+    "serverURL": "http://hoolisocial.herokuapp.com/parse",
     "appId": "hooliportal",
     "masterKey": "hoolimorty",
     "appName": "Hooli",
